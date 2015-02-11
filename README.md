@@ -1,4 +1,4 @@
 sial
 ====
 
-Sistema de información académica libre SIAL
+Este es el comienzo de una nueva historia SIAL
